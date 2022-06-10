@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/bg_main_bottom_sheets.xml" value="0.14629629629629629" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/bg_main_bottom_sheets_swiper.xml" value="0.14629629629629629" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/bg_menu_favourites_list.xml" value="0.17592592592592593" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/bg_menu_predictions_list.xml" value="0.17592592592592593" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/city_item_favourite_selector.xml" value="0.17407407407407408" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/ic_arrow_back_screen.xml" value="0.15416666666666667" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/ic_arrow_forward.xml" value="0.15416666666666667" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/ic_clear_cloudy.xml" value="0.15416666666666667" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/ic_cloudy.xml" value="0.15416666666666667" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/ic_humidity.xml" value="0.2703125" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/ic_location.xml" value="0.15416666666666667" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/ic_mostly_cloudy.xml" value="0.15416666666666667" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/ic_partly_cloudy.xml" value="0.15416666666666667" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/ic_settings_24.xml" value="0.2703125" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/ic_showers.xml" value="0.15416666666666667" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/ic_star_border.xml" value="0.15416666666666667" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/ic_sunny.xml" value="0.2703125" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/ic_sunrise.xml" value="0.15416666666666667" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/drawable/ic_sunset.xml" value="0.15416666666666667" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/font/roboto.xml" value="0.1537037037037037" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/font/roboto_bold.xml" value="0.1537037037037037" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/layout/activity_initial_acivity.xml" value="0.264" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/layout/activity_menu.xml" value="0.264" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/layout/activity_setting.xml" value="0.4" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/layout/fragment_daily_list.xml" value="0.4" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/layout/fragment_day_info.xml" value="0.4" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/layout/item_city_list.xml" value="0.536" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/layout/item_main_daily.xml" value="0.4" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/layout/item_main_hourly.xml" value="0.6" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/menu/initial_top_bar.xml" value="0.25416666666666665" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15416666666666667" />
+        <entry key="..\:/KotlinAndroid/WeatherApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.15416666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

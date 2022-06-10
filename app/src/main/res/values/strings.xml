@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="tv_min">мин</string>
+    <string name="tv_medium_temp">сред</string>
+    <string name="tv_max_temp">макс</string>
+    <string name="content_decription_cold_image" translatable="false">cold</string>
+    <string name="content_description_humidity_image" translatable="false">humidity</string>
+    <string name="content_description_flag_image" translatable="false">flag</string>
+    <string name="content_description_sunrise_image" translatable="false">sunrise</string>
+    <string name="content_description_sunset_image" translatable="false">sunset</string>
+    <string name="content_description_sunny_image" translatable="false">sunny</string>
+    <string name="content_description_clowdx3_image" translatable="false">clowdx3</string>
+    <string name="comma" translatable="false">, %1$s</string>
+    <string name="wind_speed_mu_ms">%1$s м/с</string>
+    <string name="wind_speed_mu_kmh">%1$s км/ч</string>
+    <string name="pressure_mu_hpa">%1$s гПа</string>
+    <string name="pressure_mu_mmHg">%1$s mmHg</string>
+    <string name="location">Местоположение</string>
+    <string name="lable_favorites_locaton">Избранные места</string>
+    <string name="img_description_fvorites" translatable="false">icon_favorites</string>
+    <string name="temperature">Температура</string>
+    <string name="wind_speed">Скорость ветра</string>
+    <string name="morn">утро</string>
+    <string name="day">день</string>
+    <string name="eve">вечер</string>
+    <string name="night">ночь</string>
+    <string name="humidity">Влажность</string>
+    <string name="wind_dir">Направление ветра</string>
+    <string name="feels_like">Ощущается как</string>
+    <string name="sunrise">Восход</string>
+    <string name="sunset">Закат</string>
+    <string name="degree_symbol" translatable="false">%1$s\u00B0</string>
+    <string name="pressure">Давление</string>
+    <string name="provided_by">Предоставлено</string>
+    <string name="provider_description">"Все данные предоставлены Open Weather Map с использованием One Call API "</string>
+    <string name="source_provider" translatable="false">Source provider</string>
+    <string name="c" translatable="false">\u00B0C</string>
+    <string name="f" translatable="false">\u00B0F</string>
+    <string name="m_s">м/с</string>
+    <string name="km_h">км/ч</string>
+    <string name="mmhg">мм.рт.ст</string>
+    <string name="hpa">гПа</string>
+    <string name="geo_off">OFF</string>
+    <string name="geo_on">ON</string>
+</resources>
